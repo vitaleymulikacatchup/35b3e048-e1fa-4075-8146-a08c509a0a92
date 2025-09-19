@@ -66,7 +66,7 @@ export default function Home() {
           logoAlt="AuroraSaaS Logo"
           logoText="AuroraSaaS"
           className="footer-class"
-          containerClassName="footer-container"
+          svgClassName="footer-svg-class"
         />
       </div>
     </SiteThemeProvider>
